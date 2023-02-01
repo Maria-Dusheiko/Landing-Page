@@ -146,7 +146,7 @@ a {
              /* Cards */
 
 .all-about {
-background-image: url("/img/bg-c3.png");
+background-image: url("../img/bg-c3.png");
     background-attachment: local;
     background-position: center;
     background-size: cover;
@@ -176,19 +176,19 @@ background-image: url("/img/bg-c3.png");
 }
 
 .front1 {
-    background-image: url(/img/About/exterior.png);
+    background-image: url(../img/About/exterior.png);
     background-position: center;
     background-size: cover;
     background-repeat: space;
 }
 .front2 {
-    background-image: url(/img/About/interior.png);
+    background-image: url(../img/About/interior.png);
     background-position: center;
     background-size: cover;
     background-repeat: space;
  }
 .front3 {
-    background-image: url(/img/About/paint.png);
+    background-image: url(../img/About/paint.png);
     background-position: center;
     background-size: cover;
     background-repeat: space;
@@ -240,7 +240,7 @@ iframe {
 
             /* Subscribe section */
 footer {
-    background-image: url("/img/bg-c2.png");
+    background-image: url("../img/bg-c2.png");
     background-attachment: local;
     background-position: top;
     background-size: cover;
