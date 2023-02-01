@@ -69,7 +69,7 @@ a {
     justify-content: center;
     flex-direction: column;
     align-items: center;
-    background-image: url("./img/bg-c1.png");
+    background-image: url("../img/bg-c1.png");
     background-attachment: local;
     background-position: bottom;
     background-size: cover;
